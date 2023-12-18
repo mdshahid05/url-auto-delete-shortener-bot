@@ -15,7 +15,7 @@
   <img src="https://telegra.ph/file/910b416eca4caa7130f7d.jpg" alt="Shahid's Bot Logo">
 </p>
 <h1 align="center">
-  <b>GreyMatter's Bot</b>
+  <b>Shahid's Bot</b>
 </h1>
 
 
